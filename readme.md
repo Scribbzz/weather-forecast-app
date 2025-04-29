@@ -28,15 +28,7 @@ Users can enter any city to get the current temperature, weather description, an
 
 ## 🎥 Demo
 
-[Live App](https://your-render-app-url.onrender.com)
-
-*Replace the link above with your real Render URL*
-
----
-
-## 📷 Screenshots
-
-*(Optional — you can take a screenshot of your app and include it here)*
+[Live App](https://https://weather-forecast-app-um52.onrender.com)
 
 ---
 
